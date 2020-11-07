@@ -5,6 +5,8 @@
       color="primary"
       dark
     >
+        <router-link to="/home">Go to Foo</router-link>
+    <router-link to="/about">Go to Bar</router-link>
       <div class="d-flex align-center">
         <v-img
           alt="Vuetify Logo"
